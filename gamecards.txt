@@ -1,0 +1,28 @@
+Advance to Go,Chance,200,0
+Advance to St. Charles Place – Collect $200 if you pass Go,Chance,200,11
+Pay poor tax of $15,Chance,-15,41
+You have won crossword competition - Collect $100,Chance,100,41
+You have been elected Chairman of the Board–Pay each player $50,Chance,501,0
+Advance token to the nearest Railroad and pay owner twice the rent. You may buy it from the Bank if it's unowned,Chance,0,42
+Advance token to nearest Utility. You may buy it from the Bank if unowned. Pay owner ten times the amount on the dice if owned,Chance,0,40
+Go to Jail - Go directly to jail - Do not pass Go - Do not Collect $200,Chance,0,41
+Get Out of Jail Free,Chance,0,41
+Your building and loan matures - Collect $150,Chance,150,41
+Advance to Illinois Ave — Collect $200 if you pass Go,Chance,200,24
+Take a walk on the Boardwalk–Advance token to Boardwalk,Chance,200,39
+Bank pays you divident of $50,Chance,50,41
+Pay school fees of $150,Community Chest,-150,41
+Go to Jail - Go directly to jail - Do not pass Go - Do not Collect $200,Community Chest,0,41
+Advance to Go,Community Chest,200,0
+Holiday Fund matures - Receive $100,Community Chest,100,41
+Receive $25 consultancy fee,Community Chest,25,41
+From sale of stock you get $50,Community Chest,50,41
+Doctor's fee - Pay $50,Community Chest,-50,41
+You have won second prize in a beauty contest - Collect $10,Community Chest,10,41
+Bank error in your favor - Collect $200,Community Chest,200,41
+It is your birthday - Collect $10,Community Chest,10,41
+Income tax refund - Collect $20,Community Chest,20,41
+Get Out of Jail Free,Community Chest,0,41
+Life insurance matures - Collect $100,Community Chest,100,41
+Pay hospital fees of $100,Community Chest,-100,41
+You inherit $100,Community Chest,100,41
